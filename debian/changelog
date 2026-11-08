@@ -1,3 +1,21 @@
+timeshift (26.09.0) adrien; urgency=medium
+
+  [ Michael Webster ]
+  * .github/workflows: Add generate-test-packages trigger.
+  * .github: Add stale workflow.
+
+  [ Yannis Gerlach ]
+  * add io_nice for background rsync tasks (#492)
+  * add comment about the deletion policy (#505)
+  * always drop priviledges when opening a directory (#518)
+  * Pause snapshots (#498)
+  * main window: Fix title (#535)
+
+  [ biggestcookie ]
+  * MainWindow.vala: Change 'snasphots' typo to 'snapshots' (#507)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 21 Sep 2026 19:06:05 +0100
+
 timeshift (25.12.4) zena; urgency=medium
 
   * l10n: Update translations
